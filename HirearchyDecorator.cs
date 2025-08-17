@@ -297,4 +297,3 @@ public class HierarchyDecoratorConfigWindow : EditorWindow
     public static bool ShowPrefabIndicator { get { LoadPrefs(); return showPrefabIndicator; } }
 }
 #endif
-
