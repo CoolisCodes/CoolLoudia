@@ -1,6 +1,6 @@
 # CoolLoudia Core
 
-This package contains the core scripts and assets for the CoolLoudia Unity project.
+This package contains the core scripts and assets for the CoolLoudia Library.
 
 ## Installation
 
